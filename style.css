@@ -1,4 +1,6 @@
-* {
+@media(max-width:414px; max-height:896px )
+
+* @media(max-width:414px; max-height:896px ){
     margin: 0;
     padding: 0;
   }
